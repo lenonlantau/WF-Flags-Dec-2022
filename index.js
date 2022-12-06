@@ -1,4 +1,4 @@
-const flags = ["at","au","be","bg","br","ca","ch","cl","cr","cv","de","ec","es","fr","gb", "gt","hk","id","in","it","jp","kr","kz","mt","mx","my","nl","nz","pa","pe","ph","pl","pt","ru","sc","se","sg","tw","tz","us","uy","ve","za","zw"]
+const flags = ["at","au","be","bg","br","ca","ch","cl","cn","cr","cv","de","ec","es","fr","gb", "gt","hk","id","in","it","jp","kr","kz","mt","mx","my","nl","nz","pa","pe","ph","pl","pt","ru","sc","se","sg","tw","tz","us","uy","ve","za","zw"]
 
 const flagContainer = document.querySelector("#flag-container")
 
