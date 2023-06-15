@@ -1,5 +1,6 @@
 const flags = ["au",
 "fr",
+"fi",
 "br",
 "my",
 "ca",
